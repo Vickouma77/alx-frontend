@@ -106,3 +106,7 @@ Create your first HTML5 webpage.
 ### 39. Add a social network link in the footer
 
 ### 40. Add an article for the blog
+
+
+## Author
+- Vick Prestone
