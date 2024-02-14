@@ -71,6 +71,7 @@ html {
   .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
+    font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
   }
