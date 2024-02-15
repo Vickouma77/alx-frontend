@@ -56,6 +56,11 @@ html {
     text-decoration: none;
   }
 
+  a:link {
+    color: var(--text-color);
+    text-decoration: none;
+  }
+
   a:visited {
     font-style: italic;
   }
@@ -65,7 +70,7 @@ html {
    }
 
    a:active {
-    color: var(--color-light-grey)
+    background-color: var(--color-light-grey)
    }
   
   .visually-hidden {
