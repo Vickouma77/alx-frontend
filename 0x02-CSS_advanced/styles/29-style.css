@@ -569,14 +569,14 @@ html {
 }
 
 .nav .nav-link:hover {
-    color: var(--color-white);
-}
-
-.nav .nav-link::before {
+    color: var(--nav-item-link-hover);
+  }
+  
+  .nav .nav-link::before {
     content: "";
     position: absolute;
-    top: 0;
     bottom: 0;
+    left: 0;
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
